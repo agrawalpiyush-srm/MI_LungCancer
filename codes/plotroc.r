@@ -2,7 +2,7 @@
 library(plotROC)
 library(pROC)
 library(ROCR)
-data=read.table("input_file",header=T,sep="\t")
+data=read.table("ROC_input_file",header=T,sep="\t")
 
 svm.act <- prediction(data$SVM_Pred, data$SVM_Act)
 perf.svmact <- performance(svm.act, 'tpr', 'fpr')
