@@ -1,1 +1,5 @@
+For the scientific use, we have provided 2 models we developed for classifiying MI patients from non-MI patients.
+User should have gene expression as feature for the 11 genes we used in this study to develop model. These genes are ASF1B,B3GNT3,CST1,E2F2,EFNA3,FGF11,HMGA1,MIOX,PLK1,TERT,ZP3.
 
+'test.csv' is an example file, accoridungly which users need to prepare their file for prediction.
+For the best result, we recommend RF model.
