@@ -15,6 +15,8 @@ to classify MI patients from non-MI patients.
 
 Models are provided in the "ML_model" folder and instructions for usage is given in the README file.
 
+Code usage: python predict.py
+
 # Code Availability
 
 All the codes and input files have been provided in the "codes" folder for the public usage.
