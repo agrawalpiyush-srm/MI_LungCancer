@@ -3,7 +3,7 @@ User should have gene expression as feature for the 11 genes we used in this stu
 
 # Usage
 
-'test.csv' is an example file, accoridungly which users need to prepare their file for prediction.
+'ml_test.csv' is an example file, accoridungly which users need to prepare their file for prediction.
 
 python SVM_predict.py
 
