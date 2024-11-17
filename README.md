@@ -13,6 +13,8 @@ Drug repurposing analysis, using FDA-approved drugs was done to find new drugs a
 We also developed 2 different machine learning models, Support Vector Machine (SVM) and Random Forest (RF) using gene expression as features of the selected target genes
 to classify MI patients from non-MI patients.
 
+Models are provided in the ML_codes folder
+
 # Code Availability
 
 All the codes and input files have been provided in the "codes" folder for the public usage.
