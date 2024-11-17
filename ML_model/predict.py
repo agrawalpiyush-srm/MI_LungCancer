@@ -14,7 +14,7 @@ import joblib
 
 ###### Load New dataset on which you want to predict ##########
 
-test_url = 'ml_test.csv'
+test_url = 'test.csv'
 dataframe = read_csv(test_url, header=None)
 data_test = dataframe.values
 X_test, y_test = data_test[:, :-1], data_test[:, -1]
